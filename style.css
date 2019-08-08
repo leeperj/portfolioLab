@@ -1,0 +1,61 @@
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+  }
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  .main {
+    margin-top: 100px;
+   
+  }
+  p1{
+    color: orange;
+    background-color: green;
+    font-size:30px
+  }
+  h1{
+    color: aqua;
+    background-color: firebrick;
+    font-size: 25px;
+    margin-top: 10%
+  }
+
+  body{
+    background-color: sandybrown;
+  }
+  h2{
+    margin-top: 15%
+  }
+
+  footer{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    position: fixed;
+    height: 30px;
+    background-color: purple;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+  }
+  h2{
+    color:maroon;
+  }
+  h3{
+    color:maroon;
+  }
+ 
